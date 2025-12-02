@@ -16,6 +16,6 @@ Built with **React**, **Vite**, and **Tailwind CSS**, it provides a **fast, resp
 
 ## 📌 Features
 - Fully **responsive design** for mobile, tablet, and desktop  
-- Interactive lessons to **practice reading, writing, listening, and speaking**  
+- Interactive challenges to **practice reading, writing, listening, and speaking**  
 - Clean and intuitive UI for easy navigation  
 - Optimized for **performance and speed**
