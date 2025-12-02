@@ -13,15 +13,6 @@ export const storiesData = [
       },
       {
         id: 2,
-        title: "AI Breakthrough",
-        image: "/tech/AI.webp",
-        fullText:
-          "Artificial Intelligence has transformed modern life. Smart assistants now understand human commands, schedule tasks, and answer questions accurately. AI analyzes huge datasets, enabling it to make predictions in healthcare, finance, and education. Innovations in AI have led to smarter robots, autonomous vehicles, and predictive algorithms that improve efficiency and decision-making. Industries are rapidly adapting, and AI research continues to explore creative solutions for global challenges. The integration of AI in daily tools has simplified complex processes and opened doors to technologies that were once considered science fiction.",
-        translationText:
-          "لقد غيّر الذكاء الاصطناعي الحياة الحديثة. الآن يفهم المساعدون الأذكياء أوامر البشر، يحددون المهام، ويجيبون على الأسئلة بدقة. يقوم الذكاء الاصطناعي بتحليل مجموعات ضخمة من البيانات، مما يمكنه من التنبؤ في الرعاية الصحية والمالية والتعليم. أدت الابتكارات في الذكاء الاصطناعي إلى روبوتات أكثر ذكاءً، مركبات ذاتية القيادة، وخوارزميات تنبؤية تحسن الكفاءة واتخاذ القرار. تتكيف الصناعات بسرعة، ويستمر البحث في الذكاء الاصطناعي لاستكشاف حلول مبتكرة للتحديات العالمية. دمج الذكاء الاصطناعي في الأدوات اليومية ساهم في تبسيط العمليات المعقدة وفتح آفاق لتقنيات كانت تُعتبر سابقًا خيالًا علميًا.",
-      },
-      {
-        id: 3,
         title: "The Digital Future",
         image: "/tech/Digital Future.webp",
         fullText:
@@ -30,22 +21,13 @@ export const storiesData = [
           "المستقبل رقمي، مع المدن الذكية، الأجهزة المتصلة، والأجهزة المبتكرة التي تشكل تجربة الإنسان. الناس أكثر اتصالًا من أي وقت مضى، وتساعد التكنولوجيا في حل المشكلات المعقدة بكفاءة. تعمل الأتمتة والحوسبة السحابية وتحليل البيانات على تحويل الصناعات وزيادة الإنتاجية. تعيد منصات التعليم الرقمي، التواصل عبر الإنترنت، والتعاون الافتراضي تعريف طرق العمل والتعلم. الثورة الرقمية لا تجعل الحياة مريحة فحسب، بل تشجع أيضًا التفكير الإبداعي، الابتكار، والتعاون العالمي. تستثمر الحكومات والشركات في البنية التحتية الرقمية لدعم هذا البيئة المتطورة بسرعة.",
       },
       {
-        id: 4,
+        id: 3,
         title: "Cybersecurity Importance",
         image: "/tech/Cybersecurity.webp",
         fullText:
           "As technology advances, cybersecurity becomes critical to protect sensitive data. Organizations implement firewalls, encryption, and secure authentication methods to prevent breaches. Cyber threats are constantly evolving, requiring awareness and proactive measures. Education and training in cybersecurity help individuals and companies defend against attacks. Maintaining digital safety ensures trust, privacy, and smooth functioning of online systems. Professionals in the field continually innovate solutions to keep networks and devices secure, adapting to new threats with advanced tools and strategies.",
         translationText:
           "مع تقدم التكنولوجيا، تصبح الأمن السيبراني أمرًا بالغ الأهمية لحماية البيانات الحساسة. تقوم المؤسسات بتنفيذ الجدران النارية، التشفير، وأساليب المصادقة الآمنة لمنع الاختراقات. تتطور التهديدات السيبرانية باستمرار، مما يتطلب الوعي واتخاذ إجراءات وقائية. تساعد التعليم والتدريب في الأمن السيبراني الأفراد والشركات على الدفاع ضد الهجمات. يضمن الحفاظ على الأمان الرقمي الثقة والخصوصية وسلاسة عمل الأنظمة عبر الإنترنت. يبتكر المتخصصون في هذا المجال حلولًا باستمرار لتأمين الشبكات والأجهزة، متكيفين مع التهديدات الجديدة باستخدام أدوات واستراتيجيات متقدمة.",
-      },
-      {
-        id: 5,
-        title: "The Rise of Drones",
-        image: "/tech/Drones.webp",
-        fullText:
-          "Drones are revolutionizing industries such as photography, delivery, agriculture, and surveillance. Equipped with cameras and sensors, they provide aerial views and real-time data. Companies use drones to monitor crops, inspect infrastructure, and deliver packages efficiently. The technology is becoming more accessible, and regulations are evolving to ensure safety. Enthusiasts and professionals alike explore new applications, from creative filming to environmental monitoring. Drones demonstrate the potential of combining robotics, AI, and wireless communication for practical purposes in everyday life.",
-        translationText:
-          "تغير الطائرات بدون طيار الصناعات مثل التصوير، التوصيل، الزراعة، والمراقبة. مجهزة بكاميرات وأجهزة استشعار، توفر رؤية جوية وبيانات في الوقت الفعلي. تستخدم الشركات الطائرات بدون طيار لمراقبة المحاصيل، فحص البنية التحتية، وتوصيل الطرود بكفاءة. التكنولوجيا تصبح أكثر وصولًا، وتتطور اللوائح لضمان السلامة. يستكشف الهواة والمحترفون تطبيقات جديدة، من التصوير الإبداعي إلى مراقبة البيئة. تظهر الطائرات بدون طيار إمكانيات الجمع بين الروبوتات والذكاء الاصطناعي والاتصالات اللاسلكية لأغراض عملية في الحياة اليومية.",
       },
     ],
   },
@@ -88,15 +70,6 @@ export const storiesData = [
         translationText:
           "تعد تنمية المسار المهني ضرورية للنجاح المهني طويل الأمد. يُشجع الموظفون على وضع أهداف، اكتساب مهارات جديدة، والبحث عن فرص للنمو. تدعم المؤسسات تطوير المسار المهني من خلال برامج التدريب وورش العمل والإرشاد. يعزز تعلم تقنيات جديدة وتحسين التواصل وبناء القدرات القيادية قابلية التوظيف. توسيع الشبكات وحضور الفعاليات الصناعية يزيد من الروابط ويعرض الموظفين لوجهات نظر متنوعة. تساعد التغذية الراجعة والتقييم الذاتي الأفراد على تحديد نقاط القوة ومجالات التحسين. من خلال تحمل مسؤولية مساراتهم المهنية، يصبح الموظفون مبادرين وقابلين للتكيف وتنافسيين في مجالاتهم. تستفيد المؤسسات من فرق ماهرة ومتحمسة جاهزة للابتكار والمساهمة. يضمن التخطيط الاستراتيجي للمسار المهني توافق الأهداف الشخصية مع أهداف المؤسسة، مما يضمن النمو المستمر والرضا والمرونة في بيئة العمل المتغيرة باستمرار.",
       },
-      {
-        id: 5,
-        title: "Time Management Essentials",
-        image: "/work/Time.webp",
-        fullText:
-          "Time management is a vital skill for achieving productivity and reducing stress in the workplace. Employees can prioritize tasks, set deadlines, and break large projects into manageable steps. Using calendars, reminders, and digital tools helps maintain focus and organization. Avoiding multitasking and minimizing distractions ensures higher efficiency and quality work. Planning daily, weekly, and monthly activities provides clarity and reduces last-minute pressure. Reflecting on completed tasks and adjusting strategies improves performance over time. Organizations benefit when employees manage time effectively, as projects are delivered on schedule and resources are optimized. Mastering time management supports professional growth, work-life balance, and overall job satisfaction, creating a structured and disciplined approach to personal and organizational success.",
-        translationText:
-          "إدارة الوقت مهارة حيوية لتحقيق الإنتاجية وتقليل الضغط في مكان العمل. يمكن للموظفين تحديد أولويات المهام، وضع المواعيد النهائية، وتقسيم المشاريع الكبيرة إلى خطوات قابلة للإدارة. يساعد استخدام الجداول والمذكرات والأدوات الرقمية في الحفاظ على التركيز والتنظيم. يضمن تجنب تعدد المهام وتقليل المشتتات كفاءة أعلى وجودة عمل أفضل. يوفر التخطيط اليومي والأسبوعي والشهري وضوحًا ويقلل الضغط في اللحظة الأخيرة. يساعد التأمل في المهام المكتملة وتعديل الاستراتيجيات على تحسين الأداء بمرور الوقت. تستفيد المؤسسات عندما يدير الموظفون الوقت بفعالية، حيث يتم تسليم المشاريع في الوقت المحدد ويتم تحسين الموارد. يدعم إتقان إدارة الوقت النمو المهني، توازن الحياة والعمل، والرضا الوظيفي العام، مما يخلق نهجًا منظمًا ومنضبطًا للنجاح الشخصي والمؤسسي.",
-      },
     ],
   },
   {
@@ -122,15 +95,6 @@ export const storiesData = [
       },
       {
         id: 3,
-        title: "The Role of Banking",
-        image: "/money/Banking.webp",
-        fullText:
-          "Banks play a critical role in managing money, supporting economic growth, and providing financial services to individuals and businesses. They offer deposit accounts, loans, credit cards, and investment products. Banks facilitate payments, currency exchange, and access to financial markets. Effective banking services ensure secure transactions, liquidity, and financial planning assistance. Modern banking incorporates digital platforms, mobile apps, and online banking, improving accessibility and convenience. Banks also provide advice, credit risk assessment, and wealth management solutions. Central banks regulate monetary policy, interest rates, and stability of the financial system. A strong banking system encourages savings, investment, and entrepreneurship, contributing to economic prosperity. Understanding how banks operate helps individuals make informed financial choices and utilize services to achieve personal and business financial objectives while maintaining security and compliance with regulations.",
-        translationText:
-          "تلعب البنوك دورًا حاسمًا في إدارة الأموال، دعم النمو الاقتصادي، وتقديم الخدمات المالية للأفراد والشركات. توفر حسابات الودائع والقروض وبطاقات الائتمان ومنتجات الاستثمار. تسهل البنوك المدفوعات وتبادل العملات والوصول إلى الأسواق المالية. تضمن الخدمات المصرفية الفعالة معاملات آمنة، سيولة، ومساعدة في التخطيط المالي. يشمل البنك الحديث المنصات الرقمية والتطبيقات المصرفية عبر الهاتف والخدمات المصرفية عبر الإنترنت، مما يحسن الوصول والراحة. كما تقدم البنوك النصائح، تقييم مخاطر الائتمان، وحلول إدارة الثروة. تنظم البنوك المركزية السياسة النقدية، أسعار الفائدة، واستقرار النظام المالي. يشجع نظام مصرفي قوي على الادخار والاستثمار وريادة الأعمال، مساهماً في الازدهار الاقتصادي. يساعد فهم كيفية عمل البنوك الأفراد على اتخاذ قرارات مالية مستنيرة واستخدام الخدمات لتحقيق الأهداف المالية الشخصية والتجارية مع الحفاظ على الأمان والامتثال للقوانين.",
-      },
-      {
-        id: 4,
         title: "Cryptocurrency Impact",
         image: "/money/Crypto.webp",
         fullText:
