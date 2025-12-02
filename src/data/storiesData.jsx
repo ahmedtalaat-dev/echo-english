@@ -122,15 +122,6 @@ export const storiesData = [
       },
       {
         id: 3,
-        title: "Investing in Stocks",
-        image: "/money/Investment.webp",
-        fullText:
-          "Investing in stocks is a popular method to grow wealth over time. Stocks represent ownership in companies and allow investors to benefit from profits and market appreciation. Successful investing requires research, diversification, and understanding of risk. Investors analyze company financials, market trends, and economic indicators before making decisions. Long-term investment strategies often yield better returns than short-term speculation. Diversifying across industries, regions, and asset types reduces the impact of volatility. Modern platforms make stock investing accessible to beginners through apps and online brokers. Knowledge of dividends, price-to-earnings ratios, and market cycles enhances decision-making. While stock markets can fluctuate, disciplined investing, patience, and continuous learning help investors achieve financial goals, build wealth, and plan for retirement or major life events, contributing to personal financial security and stability in an uncertain economic environment.",
-        translationText:
-          "يعد الاستثمار في الأسهم وسيلة شائعة لزيادة الثروة مع مرور الوقت. تمثل الأسهم ملكية في الشركات وتتيح للمستثمرين الاستفادة من الأرباح وزيادة قيمة السوق. يتطلب الاستثمار الناجح البحث والتنويع وفهم المخاطر. يحلل المستثمرون البيانات المالية للشركات واتجاهات السوق والمؤشرات الاقتصادية قبل اتخاذ القرارات. غالبًا ما توفر استراتيجيات الاستثمار طويلة الأجل عوائد أفضل من المضاربة قصيرة الأجل. يقلل التنويع عبر الصناعات والمناطق وأنواع الأصول من تأثير التقلبات. تجعل المنصات الحديثة الاستثمار في الأسهم متاحًا للمبتدئين من خلال التطبيقات والوسطاء عبر الإنترنت. يعزز فهم توزيعات الأرباح ونسبة السعر إلى الأرباح ودورات السوق اتخاذ القرار. على الرغم من تقلب أسواق الأسهم، يساعد الاستثمار المنضبط والصبر والتعلم المستمر المستثمرين على تحقيق أهدافهم المالية وبناء الثروة والتخطيط للتقاعد أو الأحداث الحياتية المهمة، مما يسهم في الأمان المالي والاستقرار في بيئة اقتصادية غير مؤكدة.",
-      },
-      {
-        id: 4,
         title: "The Role of Banking",
         image: "/money/Banking.webp",
         fullText:
@@ -139,7 +130,7 @@ export const storiesData = [
           "تلعب البنوك دورًا حاسمًا في إدارة الأموال، دعم النمو الاقتصادي، وتقديم الخدمات المالية للأفراد والشركات. توفر حسابات الودائع والقروض وبطاقات الائتمان ومنتجات الاستثمار. تسهل البنوك المدفوعات وتبادل العملات والوصول إلى الأسواق المالية. تضمن الخدمات المصرفية الفعالة معاملات آمنة، سيولة، ومساعدة في التخطيط المالي. يشمل البنك الحديث المنصات الرقمية والتطبيقات المصرفية عبر الهاتف والخدمات المصرفية عبر الإنترنت، مما يحسن الوصول والراحة. كما تقدم البنوك النصائح، تقييم مخاطر الائتمان، وحلول إدارة الثروة. تنظم البنوك المركزية السياسة النقدية، أسعار الفائدة، واستقرار النظام المالي. يشجع نظام مصرفي قوي على الادخار والاستثمار وريادة الأعمال، مساهماً في الازدهار الاقتصادي. يساعد فهم كيفية عمل البنوك الأفراد على اتخاذ قرارات مالية مستنيرة واستخدام الخدمات لتحقيق الأهداف المالية الشخصية والتجارية مع الحفاظ على الأمان والامتثال للقوانين.",
       },
       {
-        id: 5,
+        id: 4,
         title: "Cryptocurrency Impact",
         image: "/money/Crypto.webp",
         fullText:
