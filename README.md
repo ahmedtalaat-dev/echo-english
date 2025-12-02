@@ -2,7 +2,7 @@
 
 ![Echo English Website](https://echo-english.netlify.app/home.png)  
 
-🚀 **Echo English** is a web platform designed to help learners **improve their reading, writing, listening, and speaking skills** in English.  
+**Echo English** is a web platform designed to help learners **improve their reading, writing, listening, and speaking skills** in English.  
 Built with **React**, **Vite**, and **Tailwind CSS**, it provides a **fast, responsive, and interactive learning experience**.
 
 ## 🌐 Live Demo
